@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecepieInfo.API", "RecepieInfo.API\RecepieInfo.API.csproj", "{B3A718CD-4D91-41E4-9561-2C15DC118249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A718CD-4D91-41E4-9561-2C15DC118249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A718CD-4D91-41E4-9561-2C15DC118249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A718CD-4D91-41E4-9561-2C15DC118249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A718CD-4D91-41E4-9561-2C15DC118249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2600AA-9CA6-4265-9CA4-E2288A9A9BAA}
+	EndGlobalSection
+EndGlobal
